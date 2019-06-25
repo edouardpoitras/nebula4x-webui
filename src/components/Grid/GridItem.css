@@ -1,0 +1,21 @@
+.grid-draggable {
+  height: inherit;
+}
+
+.grid-draggable span.grid-header-title {
+  width: 100%;
+  display: block;
+  background-color: #ddd;
+  cursor: move;
+  text-align: center;
+}
+
+.grid-draggable span.grid-header-title span.glyphicon {
+  float: right;
+  cursor: pointer;
+}
+
+.grid-draggable div.grid-item-content {
+  height: calc(100% - 22px);
+  overflow: auto;
+}

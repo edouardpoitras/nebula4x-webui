@@ -1,0 +1,8 @@
+.starmap-container div.starmap-actions {
+  width: 100%;
+  text-align: center;
+}
+
+.starmap-container div.starmap-actions span.glyphicon {
+  cursor: pointer;
+}

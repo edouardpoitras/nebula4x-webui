@@ -1,0 +1,29 @@
+#nebula4x-nav {
+  margin-bottom: 0;
+}
+
+#nebula4x-nav .time-management .time-actions a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#nebula4x-nav .universe-time {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+#nebula4x-nav .btn-group .btn {
+  padding: 4px 10px;
+  font-size: 1.5rem;
+}
+
+#nebula4x-nav .btn-group button {
+  background-color: black;
+  border-color: red;
+  color: red;
+}
+
+#nebula4x-nav .btn-group button:hover {
+  border-color: white;
+  color: white;
+}

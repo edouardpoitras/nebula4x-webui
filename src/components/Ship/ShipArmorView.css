@@ -1,0 +1,14 @@
+#armor-layers {
+  width: auto;
+  height: auto;
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+
+.tile-intact {
+  color: black;
+}
+
+.tile-damaged {
+  color: red;
+}
